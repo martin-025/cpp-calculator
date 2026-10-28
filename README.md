@@ -1,6 +1,8 @@
 # C++ Command-Line Calculator
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/martin-025/cpp-calculator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/martin-025/cpp-calculator)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/1/badge)](https://www.bestpractices.dev/projects/1)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/34/badge)](https://www.bestpractices.dev/projects/34)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/31/badge)](https://www.bestpractices.dev/projects/31)
 [![CII Best Practices](https://www.bestpractices.dev/projects/13438/badge)](https://www.bestpractices.dev/projects/13438)
 
