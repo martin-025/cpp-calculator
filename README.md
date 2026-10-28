@@ -1,3 +1,8 @@
+# C++ Command-Line Calculator
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/<YOUR-GITHUB-USERNAME>/cpp-calculator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/<YOUR-GITHUB-USERNAME>/cpp-calculator)
+[![CII Best Practices](https://www.bestpractices.dev/projects/<YOUR-PROJECT-ID>/badge)](https://www.bestpractices.dev/projects/<YOUR-PROJECT-ID>)
+
 ## About This Repository
 A lightweight, modular command-line calculator written in modern C++17, built to demonstrate secure software engineering principles, automated supply-chain security monitoring, and open-source best practices.
 
